@@ -1,0 +1,70 @@
+BODY TABLE {
+	FONT-SIZE: 13px;
+	OVERFLOW-X: hidden;
+	COLOR: #6a6a6a;
+	FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif";
+	TEXT-DECORATION: none;
+	line-height: 16px;
+}
+BODY {
+	SCROLLBAR-FACE-COLOR: #ebebeb; SCROLLBAR-HIGHLIGHT-COLOR: #808080; SCROLLBAR-SHADOW-COLOR: #808080; SCROLLBAR-3DLIGHT-COLOR: #d2d2d2; SCROLLBAR-ARROW-COLOR: #808080; SCROLLBAR-TRACK-COLOR: #d2d2d2; SCROLLBAR-DARKSHADOW-COLOR: #d2d2d2
+}
+.fontbk_1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbk_2 {
+	FONT-SIZE: 12px; COLOR: #858585; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.fontbk_3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #858585; LINE-HEIGHT: 18px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.fontbk_4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbk_4 A {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbk_4 A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #29b2f2; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbk_5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #000000; LINE-HEIGHT: 24px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.fontbk_6 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 25px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.font01 {
+	FONT-SIZE: 12px; COLOR: #3a599a; LINE-HEIGHT: 20px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.font01 A {
+	FONT-SIZE: 12px; COLOR: #3a599a; LINE-HEIGHT: 20px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.font01 A:hover {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 20px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbu_1 {
+	FONT-SIZE: 11px; COLOR: #29b2f2; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbu_1 A {
+	FONT-SIZE: 11px; COLOR: #29b2f2; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+.fontbu_1 A:hover {
+	FONT-SIZE: 11px; COLOR: #5d5d5d; LINE-HEIGHT: 16px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; TEXT-DECORATION: underline
+}
+#header {
+	width: 901px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#containerTop {
+	height: 145px;
+}
+#mainContent {
+}
+#mainContent {
+}
+#footer {
+	text-align: right;
+}
+
+
