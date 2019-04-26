@@ -1,0 +1,61 @@
+
+a {
+	float:left;
+	height:200px;
+	text-indent:-1000px;
+	position:relative;
+	cursor:pointer;
+	width:268px;
+}
+	/* WEB */
+	a.linkClass_taipei { background:url(../images/pic_taipei.jpg) top left repeat;}
+	a.linkClass_op { background:url(../images/pic_op.jpg) top left repeat;}
+	a.linkClass_kaohsiung { background:url(../images/pic_kaohsiung.jpg) top left repeat;}
+	a.linkClass_emc { background:url(../images/pic_emc.jpg) top left repeat;}
+	a.linkClass_luxjoy { background:url(../images/pic_luxjoy.jpg) top left repeat;}
+	a.linkClass_cf { background:url(../images/pic_cf.jpg) top left repeat;}
+	a.linkClass_night { background:url(../images/pic_night.jpg) top left repeat;}
+	a.linkClass_mmqq { background:url(../images/pic_mmqq.jpg) top left repeat;}
+	a.linkClass_av { background:url(../images/pic_av.jpg) top left repeat;}
+	a.linkClass_uml { background:url(../images/pic_uml.jpg) top left repeat;}
+	a.linkClass_cf { background:url(../images/pic_cf.jpg) top left repeat;}
+	a.linkClass_w2 { background:url(../images/pic_w2.jpg) top left repeat;}
+	a.linkClass_super { background:url(../images/pic_super.jpg) top left repeat;}
+	/* app */
+	a.linkClass_thermo { background:url(../images/pic_thermo.jpg) top left repeat;}
+	a.linkClass_cloud { background:url(../images/pic_cloud.jpg) top left repeat;}
+	a.linkClass_happ { background:url(../images/pic_happ.jpg) top left repeat;}
+	a.linkClass_love { background:url(../images/pic_love.jpg) top left repeat;}
+	a.linkClass_chapp { background:url(../images/pic_chapp.jpg) top left repeat;}
+	/* PRINT */
+	a.linkClass_watchbp-1 { background:url(../images/pic_watchbp-1.jpg) top left repeat;}
+	a.linkClass_watchbp-2 { background:url(../images/pic_watchbp-2.jpg) top left repeat;}
+	a.linkClass_taipei101 { background:url(../images/pic_taipei101.jpg) top left repeat;}
+	a.linkClass_mobile { background:url(../images/pic_mobile.jpg) top left repeat;}
+	a.linkClass_tgi { background:url(../images/pic_tgi.jpg) top left repeat;}
+	a.linkClass_tenllis { background:url(../images/pic_tenllis.jpg) top left repeat;}
+	a.linkClass_umlge { background:url(../images/pic_uml_ge.jpg) top left repeat;}
+	a.linkClass_umlbrand { background:url(../images/pic_umlbrand.jpg) top left repeat;}
+	a.linkClass_newsletter { background:url(../images/pic_newsletter.jpg) top left repeat;}
+	a.linkClass_frontier_dm { background:url(../images/pic_frontier_dm.jpg) top left repeat;}
+	a.linkClass_frontier_dm1 { background:url(../images/pic_frontier_dm1.jpg) top left repeat;}
+	a.linkClass_microlife { background:url(../images/pic_microlife.jpg) top left repeat;}
+	a.linkClass_Ammpex { background:url(../images/pic_Ammpex.jpg) top left repeat;}
+	a.linkClass_SalesKits { background:url(../images/pic_SalesKits.jpg) top left repeat;}
+	a.linkClass_afib { background:url(../images/pic_afib.jpg) top left repeat;}
+	a.linkClass_pmp { background:url(../images/pic_pmp.jpg) top left repeat;}
+	a.linkClass_frontier2012 { background:url(../images/pic_frontier2012.jpg) top left repeat;}
+	/* Branding */
+	a.linkClass_cih { background:url(../images/pic_cih.jpg) top left repeat;}
+	a.linkClass_rooibos { background:url(../images/pic_rooibos.jpg) top left repeat;}
+	a.linkClass_yl { background:url(../images/pic_yl.jpg) top left repeat;}
+	a.linkClass_lohas { background:url(../images/pic_lohas.jpg) top left repeat;}
+	a.linkClass_hot { background:url(../images/pic_hot.jpg) top left repeat;}
+	/* VI */
+	a.linkClass_mobile { background:url(../images/pic_mobile.jpg) top left repeat;}
+	a.linkClass_mic { background:url(../images/pic_mic.jpg) top left repeat;}
+	a.linkClass_rock { background:url(../images/pic_rock.jpg) top left repeat;}
+	a.linkClass_uml_logo { background:url(../images/pic_uml_logo.jpg) top left repeat;}
+	a.linkClass_mcool { background:url(../images/pic_mcool.jpg) top left repeat;}
+	a:hover {background-position:left bottom;}
+	a.open {background-position:left bottom !important;}
